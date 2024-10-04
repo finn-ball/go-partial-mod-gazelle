@@ -1,0 +1,1 @@
+# go-partial-mod-gazelle
